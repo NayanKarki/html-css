@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page {
+  background-color: #999999;
+  margin: auto;
+  color: white;
+  width: 980px;
+  padding-top: 2px;
+  padding-bottom: 20px;
+}
+.logo {
+  float: left;
+  position: relative;
+  top: 18px;
+  font-size: 20px;
+  margin-left: 27px;
+}
+.menue {
+  float: right;
+  font-size: 10px;
+}
+.clear {
+  clear: both;
+}
+
+.menue li {
+  display: inline;
+  padding: 17px;
+}
+.body {
+  background-color: #e8e8e8;
+  width: 980px;
+  margin: auto;
+  padding-bottom: 160px;
+}
+.don h1 {
+  text-align: center;
+  padding-top: 170px;
+  line-height: 70px;
+  color: #616161;
+  font-size: 40px;
+  font-weight: bold;
+}
+.don p {
+  text-align: center;
+  color: #616161;
+  font-size: 10px;
+  font-weight: bold;
+  padding-top: 2px;
+}
+
+.don h6 {
+  text-align: center;
+  color: #616161;
+  font-size: 20px;
+  font-weight: bold;
+}
+.jjj {
+  color: #616161;
+  padding-top: 40px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+ 
+}
+.kkk{
+  color: #616161;
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  
+}
+.box{
+  background-color:#E8E8E8;
+  width: 280px;
+  height: 195px;
+  float: left;
+}
+.boxA{
+  background-color:#E8E8E8;
+  width: 280px;
+  height: 195px;
+  float: right;
+ 
+ 
+}
+.boxB{
+  background-color:#E8E8E8;
+  width: 280px;
+  height: 195px;
+  float: right;
+  margin-right: 20px;
+  margin-left: 20px;
+  
+  
+}
+.float{
+  margin: auto;
+  width: 980px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.period{
+  margin: auto;
+  color: #E8E8E8;
+  
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+
+}
+.period span{
+  color: #999999;
+}
+#cart{
+  background-color:#C2C2C2 ;
+  width: 980px;
+  margin: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px ;
+  padding-bottom: 50px;
+
+}
+.paragraph{
+  width: 280px;
+ 
+  float: right;
+  margin-top: 10px;
+  color: #616161;
+  font-size: 20px;
+  font-weight: bold;
+ 
+  
+    
+}
+.lmao{
+  margin-left:20px ;
+  margin-right:20px ;
+
+}
+
+.t{
+  margin: auto;
+  width: 980px;
+  padding:38px 0 50px 50px ;
+}
+.sakkyo{
+  width: 200px;
+  height: 110px;
+  background-color: #E8E8E8;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 32px;
+  
+  
+  
+
+}
+.sakkyo h6{
+  font-size: 20px;
+  
+}
+.nocolor{
+  background-color: white;
+  
+ 
+}
+.sakkyo p{
+  width: 60%;
+  overflow: hidden;
+}
